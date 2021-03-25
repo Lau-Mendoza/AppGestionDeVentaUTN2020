@@ -1,0 +1,630 @@
+# depslib dependency file v1.0
+1606881382 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\configuracion.cpp
+	<iostream>
+	"configuracion.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	"rlutil.h"
+
+1606280230 c:\users\miii1\desktop\proyecto final\app_foodtruck\configuracion.h
+
+1607051269 c:\users\miii1\desktop\proyecto final\app_foodtruck\ventas.h
+	"detalleVenta.h"
+	"fecha.h"
+
+1607040351 c:\users\miii1\desktop\proyecto final\app_foodtruck\detalleventa.h
+
+1606194968 c:\users\miii1\desktop\proyecto final\app_foodtruck\fecha.h
+
+1605652178 c:\users\miii1\desktop\proyecto final\app_foodtruck\productos.h
+
+1606416368 c:\users\miii1\desktop\proyecto final\app_foodtruck\dibujo.h
+
+1604273842 c:\users\miii1\desktop\proyecto final\app_foodtruck\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607051175 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\detalleventa.cpp
+	<iostream>
+	"detalleVenta.h"
+	"productos.h"
+	"ventas.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1607543820 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\dibujo.cpp
+	<iostream>
+	"SOutil.h"
+	"rlutil.h"
+	"dibujo.h"
+	<windows.h>
+
+1605683252 c:\users\miii1\desktop\proyecto final\app_foodtruck\soutil.h
+
+1606591626 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"fecha.h"
+	"rlutil.h"
+
+1607053765 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\menu.cpp
+	<iostream>
+	"dibujo.h"
+	"menu.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"reportes.h"
+	"productos.h"
+	"configuracion.h"
+	<cstdio>
+	<cstdlib>
+	"SOutil.h"
+	"rlutil.h"
+
+1602908448 c:\users\miii1\desktop\proyecto final\app_foodtruck\menu.h
+
+1605889990 c:\users\miii1\desktop\proyecto final\app_foodtruck\reportes.h
+
+1607543730 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\productos.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"productos.h"
+	"dibujo.h"
+	"SOutil.h"
+	"rlutil.h"
+
+1607052302 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	"reportes.h"
+	"fecha.h"
+	"ventas.h"
+	"productos.h"
+	"dibujo.h"
+	<windows.h>
+	<conio.h>
+	"SOutil.h"
+	"rlutil.h"
+
+1606191194 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607631817 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\ventas.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1607510459 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"SOutil.h"
+	"rlutil.h"
+	"menu.h"
+	"fecha.h"
+	"dibujo.h"
+	<clocale>
+
+1606342346 c:\users\miii1\desktop\proyecto final\app_foodtruck\cuadros.h
+	<iostream>
+	"SOutil.h"
+	"rlutil.h"
+
+1606881382 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\configuracion.cpp
+	<iostream>
+	"configuracion.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	"rlutil.h"
+
+1606280230 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\configuracion.h
+
+1605888248 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\ventas.h
+	"detalleVenta.h"
+	"fecha.h"
+
+1607035836 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\detalleventa.h
+
+1606194968 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\fecha.h
+
+1605652178 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\productos.h
+
+1606416368 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\dibujo.h
+
+1604273842 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607036863 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\detalleventa.cpp
+	<iostream>
+	"detalleVenta.h"
+	"productos.h"
+	"ventas.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1605683252 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\soutil.h
+
+1606563098 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\dibujo.cpp
+	<iostream>
+	"SOutil.h"
+	"rlutil.h"
+	"dibujo.h"
+	<windows.h>
+
+1606591626 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"fecha.h"
+	"rlutil.h"
+
+1606565382 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"SOutil.h"
+	"rlutil.h"
+	"menu.h"
+	"fecha.h"
+	"dibujo.h"
+	<clocale>
+
+1602908448 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\menu.h
+
+1606399226 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\menu.cpp
+	<iostream>
+	"dibujo.h"
+	"menu.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"reportes.h"
+	"productos.h"
+	"configuracion.h"
+	<cstdio>
+	<cstdlib>
+	"SOutil.h"
+	"rlutil.h"
+
+1605889990 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\reportes.h
+
+1606649022 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\productos.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"productos.h"
+	"dibujo.h"
+	"SOutil.h"
+	"rlutil.h"
+
+1606880914 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	"reportes.h"
+	"fecha.h"
+	"ventas.h"
+	"productos.h"
+	"dibujo.h"
+	<windows.h>
+	<conio.h>
+	"SOutil.h"
+	"rlutil.h"
+
+1606191194 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1606882308 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9\app_foodtruck\ventas.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1606881382 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\configuracion.cpp
+	<iostream>
+	"configuracion.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	"rlutil.h"
+
+1606280230 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\configuracion.h
+
+1607051269 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\ventas.h
+	"detalleVenta.h"
+	"fecha.h"
+
+1607040351 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\detalleventa.h
+
+1606194968 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\fecha.h
+
+1605652178 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\productos.h
+
+1606416368 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\dibujo.h
+
+1604273842 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606563098 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\dibujo.cpp
+	<iostream>
+	"SOutil.h"
+	"rlutil.h"
+	"dibujo.h"
+	<windows.h>
+
+1605683252 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\soutil.h
+
+1606591626 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"fecha.h"
+	"rlutil.h"
+
+1606565382 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"SOutil.h"
+	"rlutil.h"
+	"menu.h"
+	"fecha.h"
+	"dibujo.h"
+	<clocale>
+
+1602908448 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\menu.h
+
+1606399226 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\menu.cpp
+	<iostream>
+	"dibujo.h"
+	"menu.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"reportes.h"
+	"productos.h"
+	"configuracion.h"
+	<cstdio>
+	<cstdlib>
+	"SOutil.h"
+	"rlutil.h"
+
+1605889990 c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\reportes.h
+
+1606649022 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\productos.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"productos.h"
+	"dibujo.h"
+	"SOutil.h"
+	"rlutil.h"
+
+1607040980 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	"reportes.h"
+	"fecha.h"
+	"ventas.h"
+	"productos.h"
+	"dibujo.h"
+	<windows.h>
+	<conio.h>
+	"SOutil.h"
+	"rlutil.h"
+
+1606191194 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607051460 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\ventas.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1607051175 source:c:\users\miii1\desktop\proyecto final\app_foodtruck3.9 okas\app_foodtruck\detalleventa.cpp
+	<iostream>
+	"detalleVenta.h"
+	"productos.h"
+	"ventas.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1606881382 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\configuracion.cpp
+	<iostream>
+	"configuracion.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	"rlutil.h"
+
+1606280230 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\configuracion.h
+
+1607051269 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\ventas.h
+	"detalleVenta.h"
+	"fecha.h"
+
+1607040351 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\detalleventa.h
+
+1606194968 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\fecha.h
+
+1605652178 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\productos.h
+
+1606416368 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\dibujo.h
+
+1604273842 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607051175 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\detalleventa.cpp
+	<iostream>
+	"detalleVenta.h"
+	"productos.h"
+	"ventas.h"
+	"dibujo.h"
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1605683252 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\soutil.h
+
+1606563098 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\dibujo.cpp
+	<iostream>
+	"SOutil.h"
+	"rlutil.h"
+	"dibujo.h"
+	<windows.h>
+
+1606591626 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"fecha.h"
+	"rlutil.h"
+
+1607123393 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"SOutil.h"
+	"rlutil.h"
+	"menu.h"
+	"fecha.h"
+	"dibujo.h"
+	<clocale>
+
+1602908448 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\menu.h
+
+1606649022 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\productos.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"productos.h"
+	"dibujo.h"
+	"SOutil.h"
+	"rlutil.h"
+
+1607052302 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	"reportes.h"
+	"fecha.h"
+	"ventas.h"
+	"productos.h"
+	"dibujo.h"
+	<windows.h>
+	<conio.h>
+	"SOutil.h"
+	"rlutil.h"
+
+1605889990 c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\reportes.h
+
+1606191194 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607051460 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\ventas.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"productos.h"
+	"dibujo.h"
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"SOutil.h"
+	"rlutil.h"
+
+1607053765 source:c:\users\miii1\desktop\proyecto final\app_foodtruck\app_foodtruck\menu.cpp
+	<iostream>
+	"dibujo.h"
+	"menu.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"reportes.h"
+	"productos.h"
+	"configuracion.h"
+	<cstdio>
+	<cstdlib>
+	"SOutil.h"
+	"rlutil.h"
+
